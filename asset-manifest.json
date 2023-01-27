@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-bookshelf/static/css/main.ea32734e.css",
-    "main.js": "/react-bookshelf/static/js/main.8764a3ec.js",
+    "main.js": "/react-bookshelf/static/js/main.836df4bb.js",
     "index.html": "/react-bookshelf/index.html",
     "main.ea32734e.css.map": "/react-bookshelf/static/css/main.ea32734e.css.map",
-    "main.8764a3ec.js.map": "/react-bookshelf/static/js/main.8764a3ec.js.map"
+    "main.836df4bb.js.map": "/react-bookshelf/static/js/main.836df4bb.js.map"
   },
   "entrypoints": [
     "static/css/main.ea32734e.css",
-    "static/js/main.8764a3ec.js"
+    "static/js/main.836df4bb.js"
   ]
 }
