@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-bookshelf/static/css/main.ea32734e.css",
-    "main.js": "/react-bookshelf/static/js/main.836df4bb.js",
-    "index.html": "/react-bookshelf/index.html",
-    "main.ea32734e.css.map": "/react-bookshelf/static/css/main.ea32734e.css.map",
-    "main.836df4bb.js.map": "/react-bookshelf/static/js/main.836df4bb.js.map"
+    "main.css": "/50dor-bookshelf/static/css/main.ea32734e.css",
+    "main.js": "/50dor-bookshelf/static/js/main.836df4bb.js",
+    "index.html": "/50dor-bookshelf/index.html",
+    "main.ea32734e.css.map": "/50dor-bookshelf/static/css/main.ea32734e.css.map",
+    "main.836df4bb.js.map": "/50dor-bookshelf/static/js/main.836df4bb.js.map"
   },
   "entrypoints": [
     "static/css/main.ea32734e.css",
